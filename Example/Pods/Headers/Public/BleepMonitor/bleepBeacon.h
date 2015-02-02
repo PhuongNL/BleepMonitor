@@ -1,0 +1,1 @@
+../../../../../Pod/Classes/include/bleepManager/bleepBeacon.h
