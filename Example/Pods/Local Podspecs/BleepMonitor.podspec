@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "BleepMonitor"
-  s.version          = "1.6"
+  s.version          = "1.6.1"
   s.summary          = "BLEep iOS SDK."
   s.description      = <<-DESC
                        BLEep BMS and SDKs
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Phuong Nguyen" => "phuongnl.hn@gmail.com" }
-  s.source           = { :git => "https://github.com/PhuongNL/BleepMonitor.git", :tag => "1.6" }
+  s.source           = { :git => "https://github.com/PhuongNL/BleepMonitor.git", :tag => "1.6.1" }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'

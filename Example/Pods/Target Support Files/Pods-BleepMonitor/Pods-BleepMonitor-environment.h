@@ -10,5 +10,5 @@
 #define COCOAPODS_POD_AVAILABLE_BleepMonitor
 #define COCOAPODS_VERSION_MAJOR_BleepMonitor 1
 #define COCOAPODS_VERSION_MINOR_BleepMonitor 6
-#define COCOAPODS_VERSION_PATCH_BleepMonitor 0
+#define COCOAPODS_VERSION_PATCH_BleepMonitor 1
 
