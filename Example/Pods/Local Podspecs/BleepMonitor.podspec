@@ -28,8 +28,7 @@ Pod::Spec.new do |s|
   s.resource_bundles = {
     'BleepMonitor' => ['Pod/Assets/*.png']
   }
-
+  s.ios.vendored_library = 'Pod/Classes/bleepManager.a'
   s.public_header_files = 'Pod/Classes/**/*.h'
   s.frameworks = 'CoreLocation', 'UIKit', 'Foundation'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end
